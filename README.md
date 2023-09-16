@@ -7,3 +7,6 @@ My Project and Lab submissions for AI/ML
 
 ## Week 2
 * [Probability and Statistics](https://colab.research.google.com/github/YahyaHussain/AIML_Project_and_Labs/blob/main/probability_and_statistics.ipynb)
+
+## Week 3
+* M 1 L 1 [Extracting Features from Data](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
