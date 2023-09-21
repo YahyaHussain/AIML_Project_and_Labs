@@ -1,13 +1,13 @@
 # AIML_Project_and_Labs
 My Project and Lab submissions for AI/ML
 
+## Modules
+* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/edit/main/README.md#modules-1)
+
 ## Weeks
 * [Week 1](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-1)
 * [Week 2](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-2)
 * [Week 3](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-3)
-
-## Modules
-* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/edit/main/README.md#modules-1)
 
 ## Modules 1
 * [Lab 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
