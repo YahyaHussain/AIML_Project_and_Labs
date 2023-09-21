@@ -2,7 +2,7 @@
 My Project and Lab submissions for AI/ML
 
 ## Modules
-* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/edit/main/README.md#modules-1)
+* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#modules-1)
 
 ## Weeks
 * [Week 1](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-1)
