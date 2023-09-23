@@ -11,6 +11,7 @@ My Project and Lab submissions for AI/ML
 
 ## Modules 1
 * [Lab 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
+* [Lab 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
 
 ## Week 1
 * [Python tutorial](https://colab.research.google.com/github/YahyaHussain/AIML_Project_and_Labs/blob/main/python_tutorial.ipynb)
@@ -21,3 +22,6 @@ My Project and Lab submissions for AI/ML
 
 ## Week 3
 * M 1 L 1 [Extracting Features from Data](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
+
+## Week 4
+* M 1 L 2 [Machine Learning Terms and Metrics](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
