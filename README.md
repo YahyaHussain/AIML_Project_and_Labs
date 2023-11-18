@@ -2,14 +2,17 @@
 My Project and Lab submissions for AI/ML
 
 ## Modules
-* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#modules-1)
+* [Basics](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#basics)
+* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-1)
+* [Module 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-2---appreciating-interpreting-and-visualizing-data)
+* [Module 3](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-3---classification---i)
 
 ### Basics:
 * [1. Python tutorial](python_tutorial.ipynb)
 * [1. Basics of Linear Algebra](basics_of_linear_algebra.ipynb)
 * [2. Probability and Statistics](probability_and_statistics.ipynb)
 
-### Module 1
+### Module 1 - Understanding Data
 * [3. Extracting Features from Data](AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
 * [4. Machine Learning Terms and Metrics](AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
 * [5. Data Augumentation](AIML_Module_1_Lab_3_Data_Augmentation.ipynb)
