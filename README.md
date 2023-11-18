@@ -23,7 +23,7 @@ My Project and Lab submissions for AI/ML
 * [8. Principal Components Analysis (PCA)](AIML_Module_2_Lab_2_PCA.ipynb)
 * [9. Manifold Learning Methods](AIML_Module_2_Lab_3_Manifold_Learning_Methods.ipynb)
 * [10. t-Distributed Stochastic Neighbor Embedding (t-SNE)](AIML_Module_2_Lab_4_t_Distributed_Stochastic_Neighbor_Embedding_(t_SNE).ipynb)
-* [Project](AIML_Project_Module_2.ipynb)
+* [Project](AIML_Project_Module_2.ipynb) - [Project-Files](Module2_ProjectFiles.zip)
 
 ### Module 3 - Classification - I
 * [11. Understanding Distance metrics and Introduction to KNN](AIML_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
