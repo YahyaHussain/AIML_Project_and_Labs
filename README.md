@@ -4,25 +4,24 @@ My Project and Lab submissions for AI/ML
 ## Modules
 * [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#modules-1)
 
-## Weeks
-* [Week 1](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-1)
-* [Week 2](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-2)
-* [Week 3](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-3)
-* [Week 4](https://github.com/YahyaHussain/AIML_Project_and_Labs#week-4)
+### Basics:
+* [1. Python tutorial](python_tutorial.ipynb)
+* [1. Basics of Linear Algebra](basics_of_linear_algebra.ipynb)
+* [2. Probability and Statistics](probability_and_statistics.ipynb)
 
-## Modules 1
-* [Lab 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
-* [Lab 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
+### Module 1
+* [3. Extracting Features from Data](AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
+* [4. Machine Learning Terms and Metrics](AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
+* [5. Data Augumentation](AIML_Module_1_Lab_3_Data_Augmentation.ipynb)
+* [6. Transforming Data using Linear Algebra](AIML_Module_1_Lab_4_Transforming_data_using_linear_algebra.ipynb)
 
-## Week 1
-* [Python tutorial](https://colab.research.google.com/github/YahyaHussain/AIML_Project_and_Labs/blob/main/python_tutorial.ipynb)
-* [Basics of Linear Algebra](https://colab.research.google.com/github/YahyaHussain/AIML_Project_and_Labs/blob/main/basics_of_linear_algebra.ipynb)
+### Module 2 - Appreciating, Interpreting and Visualizing Data
+* [7. Basic Plots](AIML_Module_2_Lab1.ipynb)
+* [8. Principal Components Analysis (PCA)](AIML_Module_2_Lab_2_PCA.ipynb)
+* [9. Manifold Learning Methods](AIML_Module_2_Lab_3_Manifold_Learning_Methods.ipynb)
+* [10. t-Distributed Stochastic Neighbor Embedding (t-SNE)](AIML_Module_2_Lab_4_t_Distributed_Stochastic_Neighbor_Embedding_(t_SNE).ipynb)
+* [Project](AIML_Project_Module_2.ipynb)
 
-## Week 2
-* [Probability and Statistics](https://colab.research.google.com/github/YahyaHussain/AIML_Project_and_Labs/blob/main/probability_and_statistics.ipynb)
-
-## Week 3
-* M 1 L 1 [Extracting Features from Data](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
-
-## Week 4
-* M 1 L 2 [Machine Learning Terms and Metrics](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
+### Module 3 - Classification - I
+* [11. Understanding Distance metrics and Introduction to KNN](AIML_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
+* [12. Implementing KNN from scratch and visualize Algorithm performance](AIML_Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb)
