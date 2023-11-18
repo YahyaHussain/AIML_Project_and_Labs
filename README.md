@@ -3,7 +3,7 @@ My Project and Lab submissions for AI/ML
 
 ## Modules
 * [Basics](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#basics)
-* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-1)
+* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-1---understanding-data)
 * [Module 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-2---appreciating-interpreting-and-visualizing-data)
 * [Module 3](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-3---classification---i)
 
