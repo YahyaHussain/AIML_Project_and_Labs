@@ -27,5 +27,5 @@ My Project and Lab submissions for AI/ML
 
 ### Module 3 - Classification - I
 * [11. Understanding Distance metrics and Introduction to KNN](AIML_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
-* [12. Implementing KNN from scratch and visualize Algorithm performance](AIML_Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb) - [Data-File](car_evaluation.csv)
-* [13. Using KNN for Text Classification](AIML_Module_3_Lab_3_Using_KNN_for_Text_Classification_ipynb.ipynb) - [Data-File 1](reviews.csv) - [Data-File 2](spam.csv)
+* [12. Implementing KNN from scratch and visualize Algorithm performance](AIML_Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb) - [Dataset](car_evaluation.csv)
+* [13. Using KNN for Text Classification](AIML_Module_3_Lab_3_Using_KNN_for_Text_Classification_ipynb.ipynb) - [Dataset 1](reviews.csv) - [Dataset 2](spam.csv)
