@@ -6,6 +6,7 @@ My Project and Lab submissions for AI/ML
 * [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-1---understanding-data)
 * [Module 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-2---appreciating-interpreting-and-visualizing-data)
 * [Module 3](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-3---classification---i)
+* [Module 4](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-4---perceptron-and-gradient-descent)
 
 ### Basics:
 * [1. Python tutorial](python_tutorial.ipynb)
@@ -29,3 +30,7 @@ My Project and Lab submissions for AI/ML
 * [11. Understanding Distance metrics and Introduction to KNN](AIML_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
 * [12. Implementing KNN from scratch and visualize Algorithm performance](AIML_Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb) - [Dataset](car_evaluation.csv)
 * [13. Using KNN for Text Classification](AIML_Module_3_Lab_3_Using_KNN_for_Text_Classification_ipynb.ipynb) - [Dataset 1](reviews.csv) - [Dataset 2](spam.csv)
+* [Project](AIML_Project_Module_3.ipynb) - [Dataset](preprocessed_diabetes_data.csv)
+
+### Module 4 - Perceptron and Gradient Descent
+* [14. Perceptron](AIML_Module_4_Lab_1_Perceptron.ipynb) - [Dataset](Sonar.csv)
