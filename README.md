@@ -7,6 +7,7 @@ My Project and Lab submissions for AI/ML
 * [Module 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-2---appreciating-interpreting-and-visualizing-data)
 * [Module 3](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-3---classification---i)
 * [Module 4](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-4---perceptron-and-gradient-descent)
+* [Module 5](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/README.md#module-4---perceptron-and-gradient-descent)
 
 ### Basics:
 * [1. Python tutorial](python_tutorial.ipynb)
