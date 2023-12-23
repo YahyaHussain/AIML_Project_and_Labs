@@ -26,7 +26,7 @@ My Project and Lab submissions for AI/ML
 * [10. t-Distributed Stochastic Neighbor Embedding (t-SNE)](AIML_Module_2_Lab_4_t_Distributed_Stochastic_Neighbor_Embedding_(t_SNE).ipynb)
 * [Project](AIML_Project_Module_2.ipynb) - [Project-Files](Module2_ProjectFiles.zip)
 
-### Module 3 - Classification - I
+### Module 3 - Classification
 * [11. Understanding Distance metrics and Introduction to KNN](AIML_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
 * [12. Implementing KNN from scratch and visualize Algorithm performance](AIML_Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb) - [Dataset](car_evaluation.csv)
 * [13. Using KNN for Text Classification](AIML_Module_3_Lab_3_Using_KNN_for_Text_Classification_ipynb.ipynb) - [Dataset 1](reviews.csv) - [Dataset 2](spam.csv)
@@ -37,3 +37,6 @@ My Project and Lab submissions for AI/ML
 * [15. Introduction to Gradient Descent](AIML_Module_4_Lab_2_Introduction_to_Gradient_Descent.ipynb)
 * [16. Gradient Descent](AIML_Module_4_Lab_3_Gradient_Descent.ipynb)
 * [Project](AIML_Project_Module_4.ipynb)
+
+### Module 5 - Regression
+* [17. Linear Regression, MSE and Polynomial Regression](AIML_Lab_15_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb)
