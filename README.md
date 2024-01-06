@@ -42,3 +42,5 @@ My Project and Lab submissions for AI/ML
 ### Module 5 - Regression
 * [17. Linear Regression, MSE and Polynomial Regression](AIML_Lab_15_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb)
 * [18. Loss function](AIML_Module_5_Lab_2_Loss_Functions.ipynb)
+* [19. Clustering](AIML__Clustering.ipynb)
+* [Project](AIML_Project_Module_5_Regression.ipynb)
