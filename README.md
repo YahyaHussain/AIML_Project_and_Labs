@@ -8,6 +8,8 @@ My Project and Lab submissions for AI/ML
 * [Module 3](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-3---classification---i)
 * [Module 4](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-4---perceptron-and-gradient-descent)
 * [Module 5](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/README.md#module-4---perceptron-and-gradient-descent)
+* [Module 6]()
+* [Additional]()
 
 ### Basics:
 * [1. Python tutorial](python_tutorial.ipynb)
@@ -44,3 +46,9 @@ My Project and Lab submissions for AI/ML
 * [18. Loss function](AIML_Module_5_Lab_2_Loss_Functions.ipynb)
 * [19. Clustering](AIML__Clustering.ipynb)
 * [Project](AIML_Project_Module_5_Regression.ipynb)
+
+### Module 6 - Neural Network
+* [20. Implementing Forward Propagation and Backward Propagation](AIML_Implementing_forward_propagation_and_back_propagation.ipynb)
+
+### Additional
+* [1. Speech Processing](Speech_Processing_with_Python.ipynb)
