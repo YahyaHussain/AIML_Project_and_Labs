@@ -16,7 +16,7 @@ My Project and Lab submissions for AI/ML
 * [1. Basics of Linear Algebra](basics_of_linear_algebra.ipynb)
 * [2. Probability and Statistics](probability_and_statistics.ipynb)
 
-### Module 1 - Understanding Data
+### Module 1 - Representation and Learning
 * [3. Extracting Features from Data](AIML_Module_1_Lab_1_Extracting_features_from_data_.ipynb)
 * [4. Machine Learning Terms and Metrics](AIML_Module_1_Lab_2_Machine_learning_terms_and_metrics.ipynb)
 * [5. Data Augumentation](AIML_Module_1_Lab_3_Data_Augmentation.ipynb)
