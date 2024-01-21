@@ -49,6 +49,7 @@ My Project and Lab submissions for AI/ML
 
 ### Module 6 - Neural Network
 * [20. Implementing Forward Propagation and Backward Propagation](AIML_Implementing_forward_propagation_and_back_propagation.ipynb)
+* [21. Training a Neural Network](AIML_Tutorial_Training_a_Neural_Network.ipynb)
 
 ### Additional
 * [1. Speech Processing](Speech_Processing_with_Python.ipynb)
