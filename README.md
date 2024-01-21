@@ -1,16 +1,6 @@
 # AIML_Project_and_Labs
 My Project and Lab submissions for AI/ML
 
-## Modules
-* [Basics](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#basics)
-* [Module 1](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-1---understanding-data)
-* [Module 2](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-2---appreciating-interpreting-and-visualizing-data)
-* [Module 3](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-3---classification---i)
-* [Module 4](https://github.com/YahyaHussain/AIML_Project_and_Labs/tree/main#module-4---perceptron-and-gradient-descent)
-* [Module 5](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/README.md#module-4---perceptron-and-gradient-descent)
-* [Module 6](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/README.md#module-6---neural-network)
-* [Additional](https://github.com/YahyaHussain/AIML_Project_and_Labs/blob/main/README.md#additional)
-
 ### Basics:
 * [1. Python tutorial](python_tutorial.ipynb)
 * [1. Basics of Linear Algebra](basics_of_linear_algebra.ipynb)
