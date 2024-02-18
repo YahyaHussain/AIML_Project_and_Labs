@@ -42,6 +42,7 @@ My Project and Lab submissions for AI/ML
 * [21. Training a Neural Network](AIML_Tutorial_Training_a_Neural_Network.ipynb)
 * [22. Probabilistic ML models](AIML_Probabilistic_ML_models.ipynb)
 * [23. Effect of padding, kernel size and stride - Pooling - Transfer learning and fine-tuning](AIML_Effect_of_padding,_kernel_size_and_stride_Pooling_Transfer_learning_and_fine_tuning.ipynb)
+* [24. Recurrent Neural Networks with PyTorch](AIML_RNN_Training_.ipynb)
 
 ### Additional
 * [1. Speech Processing](Speech_Processing_with_Python.ipynb)
